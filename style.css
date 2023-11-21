@@ -67,9 +67,7 @@ header{
 	align-items: center;
 }
 
-.navbar{
 
-}
 
 .logo{
 	font-size: 24px;
@@ -113,9 +111,6 @@ header{
  padding: 145px 0 235px 0;
 }
 
-.main-description{
-
-}
 
 .main-description p{
 	color: #93C1F9;
@@ -286,7 +281,7 @@ header{
 .contacts-form-button-wrapper{
 	margin-bottom: 16px;
 	justify-content: center;
-	align-items: ;
+
 }
 
 .contacts-form-button{
