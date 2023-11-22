@@ -197,10 +197,6 @@ header{
 }
 
 
-
-
-
-
 /*roadmap*/
 .roadmap{
 	padding-top: 104px;
@@ -222,9 +218,6 @@ header{
 .roadmap-description p{
 	margin-bottom: 40px;
 }
-
-
-
 
 
 /*contacts*/
@@ -360,3 +353,5 @@ footer{
 	font-weight: 700;
 
 }
+
+
